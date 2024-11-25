@@ -1,4 +1,5 @@
 <h1 align=center>
-  Melanie
+  🌸 Melanie 🌸
 </h1>
-Lorem Ipsum
+<p align=center>🌺 Terribly addicted to using Hyprland. 🌹</p>
+<p align=center>🌹 Terribly addicted to coding in Vim.  🌺</p>
