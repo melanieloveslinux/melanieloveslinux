@@ -1,25 +1,25 @@
 ###
 
-<h1 style="text-align:center;">🌸 Melanie Heart 🌸</h1>
+<h1 align="center">🌸 Melanie Heart 🌸</h1>
 
-<p style="text-align:center;">Welcome to my profile!</p>
+<p align="center">Welcome to my profile!
 
-<p style="text-align:center;">I make silly things<br>with programming languages.</p>
+  I make silly things<br>with programming languages.
 
-<p style="text-align:center;">I like Vim a little much.</p>
-
----
-<p style="text-align:center;">Thank you for visiting. :3</p>
-
-<p style="text-align:center;">This for you,<br>🌷</p>
+I like Vim a little much.
 
 ---
-<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
-<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
-<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
-<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
-<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
 
+Thank you for visiting. :3
+This for you,<br>🌷
+
+---
+🩵🩷🤍🩷🩵
+🩵🩷🤍🩷🩵
+🩵🩷🤍🩷🩵
+🩵🩷🤍🩷🩵
+🩵🩷🤍🩷🩵
+</p>
 ###
 
 <div align="center">
