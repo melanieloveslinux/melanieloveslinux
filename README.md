@@ -1,19 +1,25 @@
 ###
 
-<h1 align=center>
-  🌸 Melanie 🌸
-</h1
+<h1 style="text-align:center;color:#faf;">🌸 Melanie Heart 🌸</h1>
 
-###
+<center>Welcome to my profile!
 
-<p align=center>🌺 Terribly addicted to using Hyprland. 🌹</p>
-<p align=center>🌹 Terribly addicted to coding in Vim.  🌺</p>
+I make silly things<br>with programming languages.
 
-###
+I like Vim a little much.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melanieloveslinux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=Languages%20I%20made%20stuff%20for:" height="150" alt="languages graph"  />
-</div>
+---
+Thank you for visiting. :3
+
+This for you,<br>🌷
+
+---
+🩵🩷🤍🩷🩵<br>
+🩵🩷🤍🩷🩵<br>
+🩵🩷🤍🩷🩵<br>
+🩵🩷🤍🩷🩵<br>
+🩵🩷🤍🩷🩵
+</center>
 
 ###
 
