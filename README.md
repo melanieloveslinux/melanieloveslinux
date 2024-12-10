@@ -2,24 +2,23 @@
 
 <h1 style="text-align:center;color:#faf;">🌸 Melanie Heart 🌸</h1>
 
-<center>Welcome to my profile!
+<p style="text-align:center;">Welcome to my profile!</p>
 
-I make silly things<br>with programming languages.
+<p style="text-align:center;">I make silly things<br>with programming languages.</p>
 
-I like Vim a little much.
-
----
-Thank you for visiting. :3
-
-This for you,<br>🌷
+<p style="text-align:center;">I like Vim a little much.</p>
 
 ---
-🩵🩷🤍🩷🩵<br>
-🩵🩷🤍🩷🩵<br>
-🩵🩷🤍🩷🩵<br>
-🩵🩷🤍🩷🩵<br>
-🩵🩷🤍🩷🩵
-</center>
+<p style="text-align:center;">Thank you for visiting. :3</p>
+
+<p style="text-align:center;">This for you,<br>🌷</p>
+
+---
+<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
+<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
+<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
+<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
+<p style="text-align:center;">🩵🩷🤍🩷🩵</p>
 
 ###
 
