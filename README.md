@@ -1,6 +1,6 @@
 ###
 
-<h1 style="text-align:center;color:#faf;">🌸 Melanie Heart 🌸</h1>
+<h1 style="text-align:center;">🌸 Melanie Heart 🌸</h1>
 
 <p style="text-align:center;">Welcome to my profile!</p>
 
